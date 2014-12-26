@@ -1,4 +1,6 @@
-volume-unit-converter
+Volume Unit Converter
 =====================
 
-A simple Volume Unit Converter written in Python
+A simple Volume Unit Converter written in Python and GTK3.
+
+Execute via `./unit-converter.py`
